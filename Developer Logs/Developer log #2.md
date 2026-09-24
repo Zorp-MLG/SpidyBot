@@ -9,3 +9,7 @@ I finished the logo!
 I think it looks pretty cute! I made it in adobe express.
 
 I think the colors in the logo will be the entire color palette for the project.
+
+# What I will do next
+
+Finish the pcb
