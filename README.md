@@ -1,5 +1,8 @@
 # SpidyBot
 A spooky scary spider robot for zoneout, an hackclub program.
+
+
+
 An scary/cute spider for halloween deco
 
 
